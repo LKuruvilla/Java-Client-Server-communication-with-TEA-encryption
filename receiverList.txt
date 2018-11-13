@@ -1,0 +1,5 @@
+lovin 127.0.0.1 11010
+Sapphire2.uhcl.edu 127.0.0.1 11010
+Sapphire3.uhcl.edu 127.0.0.1 11010
+Sapphire4.uhcl.edu 127.0.1.1 11010
+
